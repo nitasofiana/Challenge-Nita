@@ -1,0 +1,94 @@
+.banner {
+  background: url("1.jpg") no-repeat center center;
+  background-size: cover;
+  padding-top: 20%;
+  padding-bottom: 20%;
+  color: white;
+  font-weight: 700;
+  height: 100vh;
+}
+
+.banner2 {
+  background: url("the-games-bg.jpg") no-repeat center center;
+  background-size: cover;
+  padding-top: 20%;
+  padding-bottom: 20%;
+  color: white;
+  height: 100vh;
+}
+
+.display-2 {
+  font-size: calc(1.575rem + 3.9vw);
+  font-weight: 600;
+  line-height: 1.2;
+}
+
+h5 {
+  margin-top: 4%;
+}
+
+button {
+  margin-top: 4%;
+}
+
+nav {
+  font-size: 15px;
+  padding-right: 5px;
+  color: white;
+  font-weight: bold;
+}
+
+.display-6 {
+  font-size: 1.5rem;
+}
+.display-4 {
+  font-size: 3rem;
+}
+
+.banner3 {
+  background: url("features.jpg") no-repeat center center;
+  background-size: cover;
+  padding-top: 19%;
+  padding-bottom: 39%;
+  padding-left: 59%;
+  padding-right: 10%;
+  color: white;
+  height: 100vh;
+  margin-top: -2%;
+}
+
+p {
+  color: white;
+}
+
+li {
+  color: orange;
+  margin-bottom: 22px;
+}
+
+.banner4 {
+  background: url("requirements.png") no-repeat center center;
+  background-size: cover;
+  padding-bottom: 39%;
+  padding-left: 5%;
+  padding-right: 10%;
+  color: white;
+  height: 100vh;
+  margin-top: -2%;
+}
+
+.banner4 h5 {
+  color: orange;
+}
+
+.banner5 {
+  background: url("top-score.png") no-repeat center center;
+  background-size: cover;
+  padding-top: 15%;
+  color: white;
+  height: 100vh;
+}
+
+.banner5 br {
+  padding-left: 90rem;
+}
